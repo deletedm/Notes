@@ -4,3 +4,5 @@ Match the language to the problem you are dealing with
 (R for statistics, for example)
 You cannot handle the complexity of memory management
 We can only hold about 7+/-2 things in mind at a time
+Example of a problem: Mariner 1 spacecraft used an instant value instead of an average value
+This small error caused the entire spacecraft to be lost.
